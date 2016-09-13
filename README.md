@@ -1,4 +1,4 @@
-# HTML/Javacsript Cognitive Services Template
+# HTML/Javascript Cognitive Services Template
 
 This Demo shows how you can easily use the Text Analytics APIs from Microsoft's Cognitive Services to analyze sentiment of text.
 
